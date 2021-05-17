@@ -3594,7 +3594,7 @@ broccoli-funnel@^3.0.3:
     path-posix "^1.0.0"
     walk-sync "^2.0.2"
 
-"broccoli-funnel@github:ef4/broccoli-funnel#c70d060076e14793e8495571f304a976afc754ac":
+broccoli-funnel@ef4/broccoli-funnel#c70d060076e14793e8495571f304a976afc754ac:
   version "2.0.2-ef4.0"
   resolved "https://codeload.github.com/ef4/broccoli-funnel/tar.gz/c70d060076e14793e8495571f304a976afc754ac"
   dependencies:
@@ -5223,9 +5223,9 @@ dot-prop@^5.2.0:
   dependencies:
     is-obj "^2.0.0"
 
-dragula@spartez/dragula#mixed-direction:
+dragula@hbrysiewicz/dragula#mixed-direction:
   version "3.7.2"
-  resolved "https://codeload.github.com/spartez/dragula/tar.gz/0ee9975d0094a45bed4ab97109c5409a2a996efa"
+  resolved "https://codeload.github.com/hbrysiewicz/dragula/tar.gz/a87c80e53b3092f4c7665e02fe585ac9f91bc72a"
   dependencies:
     contra "1.9.4"
     crossvent "1.5.4"
